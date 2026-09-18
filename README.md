@@ -27,7 +27,7 @@ The project was inspired by a university research assignment on QRIS payment dec
 ## Project Files
 
 * `qris_synthetic_dataset.csv` — synthetic dataset used in the analysis.
-* `qris_analysis.ipynb` — notebook containing data preparation, exploratory analysis, visualizations, and regression analysis.
+* `QRIS_Payment_Behavior_Analysis.ipynb` — notebook containing data preparation, exploratory analysis, visualizations, and regression analysis.
 
 ## Methodology
 
