@@ -1,0 +1,501 @@
+respondent_id,age,occupation,monthly_income,qris_experience,qris_frequency,preferred_payment,main_purchase_channel,ease_1,ease_2,ease_3,benefit_1,benefit_2,benefit_3,security_1,security_2,security_3,decision_1,decision_2,decision_3,ease_score,benefit_score,security_score,decision_score
+R001,20,Student,Below 1M,Yes,Often,E-wallet without QRIS,Online,5,4,4,3,3,3,2,3,2,4,4,4,4.33,3.0,2.33,4.0
+R002,24,Student,1M-2.9M,Yes,Often,E-wallet without QRIS,Both equally,3,3,3,5,5,5,4,4,4,3,3,3,3.0,5.0,4.0,3.0
+R003,22,Student,3M-4.9M,Yes,Often,Cash,Offline,3,4,4,4,3,4,4,2,3,3,3,4,3.67,3.67,3.0,3.33
+R004,21,Employee,3M-4.9M,Yes,Often,Bank Transfer,Online,4,4,4,5,5,5,3,3,3,4,4,4,4.0,5.0,3.0,4.0
+R005,19,Student,3M-4.9M,Yes,Often,QRIS,Online,3,4,4,3,4,4,4,3,3,3,3,3,3.67,3.67,3.33,3.0
+R006,19,Student,1M-2.9M,Yes,Often,QRIS,Both equally,4,4,4,4,4,4,3,4,4,1,2,2,4.0,4.0,3.67,1.67
+R007,18,Self-employed,1M-2.9M,Yes,Often,E-wallet without QRIS,Both equally,4,3,3,4,5,4,4,3,4,3,3,2,3.33,4.33,3.67,2.67
+R008,23,Employee,3M-4.9M,Yes,Often,QRIS,Offline,4,4,3,4,4,4,3,3,3,4,3,4,3.67,4.0,3.0,3.67
+R009,21,Self-employed,Below 1M,Yes,Often,E-wallet without QRIS,Online,4,4,4,3,4,3,5,3,4,4,1,3,4.0,3.33,4.0,2.67
+R010,22,Student,1M-2.9M,Yes,Often,E-wallet without QRIS,Offline,3,4,3,4,3,3,3,3,4,3,2,2,3.33,3.33,3.33,2.33
+R011,18,Student,Below 1M,Yes,Often,QRIS,Online,4,3,4,4,3,5,3,2,2,2,2,3,3.67,4.0,2.33,2.33
+R012,24,Student,5M or more,Yes,Often,E-wallet without QRIS,Offline,3,3,2,4,4,4,3,2,3,3,2,3,2.67,4.0,2.67,2.67
+R013,23,Self-employed,5M or more,No,Never,QRIS,Offline,2,3,3,3,3,4,2,1,3,1,1,1,2.67,3.33,2.0,1.0
+R014,19,Employee,Below 1M,Yes,Often,Cash,Offline,4,4,3,5,5,4,4,4,3,3,4,4,3.67,4.67,3.67,3.67
+R015,19,Student,3M-4.9M,Yes,Often,Cash,Online,4,3,4,5,5,4,2,3,2,3,3,3,3.67,4.67,2.33,3.0
+R016,19,Student,5M or more,Yes,Often,Bank Transfer,Offline,4,3,3,4,4,4,2,3,3,2,2,2,3.33,4.0,2.67,2.0
+R017,20,Student,Below 1M,Yes,Sometimes,QRIS,Both equally,3,3,4,3,4,4,2,1,2,3,3,3,3.33,3.67,1.67,3.0
+R018,21,Employee,1M-2.9M,No,Never,Cash,Online,3,4,4,4,4,5,3,4,3,3,4,4,3.67,4.33,3.33,3.67
+R019,21,Other,5M or more,Yes,Rarely,Debit/Credit Card,Offline,4,4,4,3,4,3,3,3,3,5,4,5,4.0,3.33,3.0,4.67
+R020,20,Student,Below 1M,No,Never,Debit/Credit Card,Both equally,3,4,3,4,4,4,4,4,4,2,2,2,3.33,4.0,4.0,2.0
+R021,21,Student,1M-2.9M,Yes,Often,Debit/Credit Card,Offline,2,3,3,3,2,3,3,3,3,3,2,3,2.67,2.67,3.0,2.67
+R022,19,Student,Below 1M,No,Never,QRIS,Online,3,3,4,5,4,4,4,1,2,4,4,4,3.33,4.33,2.33,4.0
+R023,20,Other,5M or more,Yes,Often,QRIS,Online,5,4,3,2,3,3,4,3,3,2,1,2,4.0,2.67,3.33,1.67
+R024,20,Employee,5M or more,Yes,Very often,QRIS,Offline,3,4,4,5,5,4,3,3,3,2,4,4,3.67,4.67,3.0,3.33
+R025,21,Employee,5M or more,Yes,Sometimes,E-wallet without QRIS,Offline,3,3,3,3,4,4,4,4,4,3,3,3,3.0,3.67,4.0,3.0
+R026,22,Student,1M-2.9M,Yes,Sometimes,QRIS,Offline,2,3,4,4,3,4,2,2,2,3,4,3,3.0,3.67,2.0,3.33
+R027,19,Student,3M-4.9M,Yes,Sometimes,QRIS,Both equally,2,3,3,4,3,4,3,3,4,4,3,4,2.67,3.67,3.33,3.67
+R028,21,Student,3M-4.9M,Yes,Rarely,Bank Transfer,Online,4,4,4,3,4,4,5,3,4,4,3,3,4.0,3.67,4.0,3.33
+R029,21,Student,Below 1M,Yes,Often,QRIS,Online,4,5,3,5,5,3,4,4,3,4,4,4,4.0,4.33,3.67,4.0
+R030,18,Employee,3M-4.9M,Yes,Sometimes,Bank Transfer,Online,3,4,2,3,2,2,3,4,3,2,2,1,3.0,2.33,3.33,1.67
+R031,21,Employee,Below 1M,Yes,Often,Debit/Credit Card,Offline,3,3,4,5,5,4,3,4,4,2,2,2,3.33,4.67,3.67,2.0
+R032,19,Other,1M-2.9M,Yes,Often,E-wallet without QRIS,Online,3,3,3,4,4,4,3,4,3,3,2,3,3.0,4.0,3.33,2.67
+R033,18,Other,Below 1M,Yes,Often,QRIS,Both equally,4,4,4,2,3,3,3,4,3,4,3,4,4.0,2.67,3.33,3.67
+R034,24,Student,Below 1M,Yes,Very often,QRIS,Offline,3,3,3,3,4,3,4,4,2,1,2,1,3.0,3.33,3.33,1.33
+R035,24,Employee,Below 1M,Yes,Often,Debit/Credit Card,Offline,4,4,5,5,5,5,2,4,3,3,3,2,4.33,5.0,3.0,2.67
+R036,22,Self-employed,1M-2.9M,Yes,Sometimes,E-wallet without QRIS,Offline,2,3,2,3,4,3,3,4,4,2,3,3,2.33,3.33,3.67,2.67
+R037,20,Employee,Below 1M,Yes,Very often,Debit/Credit Card,Online,3,4,4,3,3,3,3,2,3,2,2,2,3.67,3.0,2.67,2.0
+R038,19,Student,3M-4.9M,Yes,Very often,QRIS,Both equally,4,4,4,4,5,5,2,3,3,2,2,3,4.0,4.67,2.67,2.33
+R039,22,Student,Below 1M,Yes,Sometimes,E-wallet without QRIS,Offline,4,4,4,4,4,4,2,3,2,3,3,4,4.0,4.0,2.33,3.33
+R040,21,Student,Below 1M,Yes,Rarely,E-wallet without QRIS,Online,5,5,5,2,3,3,2,2,1,3,3,2,5.0,2.67,1.67,2.67
+R041,19,Self-employed,1M-2.9M,Yes,Rarely,Debit/Credit Card,Offline,3,4,4,4,3,4,2,2,3,3,4,3,3.67,3.67,2.33,3.33
+R042,21,Student,3M-4.9M,Yes,Sometimes,E-wallet without QRIS,Both equally,3,3,4,4,4,3,4,3,4,2,3,3,3.33,3.67,3.67,2.67
+R043,18,Student,Below 1M,Yes,Very often,E-wallet without QRIS,Offline,4,4,4,4,4,5,3,3,3,3,3,3,4.0,4.33,3.0,3.0
+R044,23,Student,1M-2.9M,Yes,Often,Cash,Online,2,3,3,5,4,3,3,4,3,2,1,1,2.67,4.0,3.33,1.33
+R045,20,Student,3M-4.9M,No,Never,QRIS,Both equally,3,4,3,4,4,5,4,3,3,3,3,3,3.33,4.33,3.33,3.0
+R046,22,Student,1M-2.9M,Yes,Sometimes,Cash,Both equally,3,3,3,4,4,5,3,3,2,3,4,3,3.0,4.33,2.67,3.33
+R047,20,Student,Below 1M,Yes,Very often,QRIS,Online,5,4,5,5,5,5,5,4,4,4,3,4,4.67,5.0,4.33,3.67
+R048,21,Student,Below 1M,Yes,Often,QRIS,Offline,3,3,3,4,3,3,3,4,4,3,3,3,3.0,3.33,3.67,3.0
+R049,21,Student,3M-4.9M,Yes,Sometimes,QRIS,Offline,4,3,4,3,3,3,3,2,3,4,2,3,3.67,3.0,2.67,3.0
+R050,19,Employee,Below 1M,Yes,Very often,QRIS,Offline,2,4,4,5,3,4,4,5,4,2,2,2,3.33,4.0,4.33,2.0
+R051,24,Student,3M-4.9M,No,Never,QRIS,Offline,5,5,5,5,5,5,3,3,3,5,4,4,5.0,5.0,3.0,4.33
+R052,22,Employee,1M-2.9M,Yes,Very often,QRIS,Online,3,4,3,3,2,2,3,3,4,3,4,3,3.33,2.33,3.33,3.33
+R053,24,Student,5M or more,Yes,Very often,E-wallet without QRIS,Offline,5,5,4,4,3,3,2,3,2,3,3,3,4.67,3.33,2.33,3.0
+R054,23,Student,3M-4.9M,No,Never,Bank Transfer,Offline,4,4,5,4,4,5,2,2,2,3,4,4,4.33,4.33,2.0,3.67
+R055,21,Employee,5M or more,Yes,Often,QRIS,Online,5,3,4,5,3,3,3,3,3,2,2,3,4.0,3.67,3.0,2.33
+R056,24,Student,1M-2.9M,Yes,Very often,Bank Transfer,Both equally,4,4,4,3,2,4,3,4,3,3,4,3,4.0,3.0,3.33,3.33
+R057,19,Student,3M-4.9M,Yes,Sometimes,Cash,Online,4,4,3,5,5,5,3,3,3,3,3,4,3.67,5.0,3.0,3.33
+R058,19,Student,1M-2.9M,Yes,Often,QRIS,Offline,2,3,2,5,5,5,2,2,2,2,3,4,2.33,5.0,2.0,3.0
+R059,18,Employee,1M-2.9M,Yes,Very often,QRIS,Offline,3,4,4,4,5,4,3,2,3,3,3,3,3.67,4.33,2.67,3.0
+R060,20,Student,1M-2.9M,No,Never,Cash,Both equally,4,4,4,3,4,3,4,3,4,3,3,3,4.0,3.33,3.67,3.0
+R061,20,Student,3M-4.9M,Yes,Sometimes,E-wallet without QRIS,Offline,3,4,3,3,2,3,3,4,3,4,3,4,3.33,2.67,3.33,3.67
+R062,20,Student,5M or more,Yes,Very often,Debit/Credit Card,Offline,3,3,3,5,4,4,4,4,3,1,2,2,3.0,4.33,3.67,1.67
+R063,23,Student,3M-4.9M,Yes,Often,QRIS,Online,4,4,3,4,5,5,3,3,3,2,3,3,3.67,4.67,3.0,2.67
+R064,20,Student,1M-2.9M,Yes,Rarely,QRIS,Online,5,5,4,3,4,4,5,5,4,5,4,4,4.67,3.67,4.67,4.33
+R065,20,Student,1M-2.9M,Yes,Often,QRIS,Online,5,4,5,4,3,4,2,2,2,3,2,3,4.67,3.67,2.0,2.67
+R066,21,Student,3M-4.9M,Yes,Sometimes,QRIS,Offline,4,4,4,4,3,4,4,4,4,4,3,4,4.0,3.67,4.0,3.67
+R067,19,Student,Below 1M,Yes,Often,QRIS,Offline,5,5,4,4,3,2,4,4,5,4,5,5,4.67,3.0,4.33,4.67
+R068,22,Student,Below 1M,Yes,Rarely,QRIS,Both equally,3,3,4,4,4,4,3,4,3,3,3,4,3.33,4.0,3.33,3.33
+R069,18,Self-employed,1M-2.9M,Yes,Very often,E-wallet without QRIS,Offline,3,2,2,5,5,5,3,3,3,4,3,3,2.33,5.0,3.0,3.33
+R070,25,Student,Below 1M,Yes,Sometimes,Bank Transfer,Online,3,3,3,2,2,3,3,3,3,2,1,1,3.0,2.33,3.0,1.33
+R071,22,Student,Below 1M,Yes,Sometimes,QRIS,Both equally,5,5,4,5,4,5,4,4,4,4,4,5,4.67,4.67,4.0,4.33
+R072,19,Employee,Below 1M,Yes,Sometimes,Bank Transfer,Online,4,4,4,4,4,5,2,3,3,4,3,3,4.0,4.33,2.67,3.33
+R073,18,Student,Below 1M,Yes,Very often,QRIS,Offline,3,3,4,5,5,5,3,3,3,4,5,4,3.33,5.0,3.0,4.33
+R074,23,Student,Below 1M,No,Never,Cash,Offline,4,3,3,3,2,3,3,3,3,2,3,2,3.33,2.67,3.0,2.33
+R075,22,Employee,5M or more,Yes,Often,QRIS,Online,5,5,4,3,3,3,5,4,4,3,3,2,4.67,3.0,4.33,2.67
+R076,22,Self-employed,1M-2.9M,Yes,Often,Cash,Both equally,4,4,5,3,3,3,4,3,3,4,4,5,4.33,3.0,3.33,4.33
+R077,22,Student,1M-2.9M,Yes,Often,Bank Transfer,Both equally,5,5,5,4,4,4,2,3,3,2,2,2,5.0,4.0,2.67,2.0
+R078,18,Self-employed,1M-2.9M,Yes,Often,Cash,Offline,3,4,3,5,5,5,3,3,3,3,3,3,3.33,5.0,3.0,3.0
+R079,20,Student,Below 1M,Yes,Rarely,QRIS,Offline,4,3,4,4,4,4,3,3,2,3,3,4,3.67,4.0,2.67,3.33
+R080,19,Student,5M or more,Yes,Often,Cash,Both equally,3,3,2,4,3,4,3,3,3,3,3,2,2.67,3.67,3.0,2.67
+R081,23,Student,3M-4.9M,Yes,Sometimes,QRIS,Both equally,5,4,4,3,4,3,4,5,4,5,4,4,4.33,3.33,4.33,4.33
+R082,21,Other,Below 1M,Yes,Very often,E-wallet without QRIS,Both equally,3,3,2,5,4,4,2,2,2,4,3,3,2.67,4.33,2.0,3.33
+R083,20,Student,1M-2.9M,Yes,Very often,Cash,Offline,4,4,4,3,4,3,5,4,5,3,3,3,4.0,3.33,4.67,3.0
+R084,18,Student,3M-4.9M,Yes,Sometimes,QRIS,Online,3,4,3,5,5,4,5,4,4,3,3,3,3.33,4.67,4.33,3.0
+R085,20,Student,5M or more,No,Never,Cash,Both equally,2,3,5,3,4,3,4,4,4,3,3,3,3.33,3.33,4.0,3.0
+R086,20,Student,1M-2.9M,Yes,Sometimes,Cash,Online,3,2,3,5,5,4,3,3,3,3,2,3,2.67,4.67,3.0,2.67
+R087,22,Student,1M-2.9M,Yes,Very often,QRIS,Online,3,2,3,4,5,4,3,3,3,3,2,3,2.67,4.33,3.0,2.67
+R088,21,Student,Below 1M,Yes,Sometimes,Debit/Credit Card,Offline,4,3,3,3,3,4,2,3,2,2,3,2,3.33,3.33,2.33,2.33
+R089,23,Student,5M or more,Yes,Sometimes,QRIS,Online,2,4,3,5,3,3,4,2,4,2,1,2,3.0,3.67,3.33,1.67
+R090,21,Student,Below 1M,Yes,Sometimes,Debit/Credit Card,Offline,5,4,4,3,3,4,4,3,3,4,3,3,4.33,3.33,3.33,3.33
+R091,19,Student,5M or more,Yes,Often,E-wallet without QRIS,Online,3,3,3,3,4,4,5,5,4,2,3,3,3.0,3.67,4.67,2.67
+R092,22,Student,1M-2.9M,No,Never,E-wallet without QRIS,Both equally,4,4,3,4,3,4,3,3,1,2,2,2,3.67,3.67,2.33,2.0
+R093,22,Student,1M-2.9M,Yes,Very often,Cash,Offline,5,4,4,2,3,4,3,4,3,3,3,4,4.33,3.0,3.33,3.33
+R094,21,Student,1M-2.9M,Yes,Sometimes,Cash,Both equally,4,4,3,4,4,4,3,4,3,4,4,5,3.67,4.0,3.33,4.33
+R095,22,Employee,Below 1M,Yes,Rarely,QRIS,Offline,4,2,2,5,4,4,2,2,2,3,3,3,2.67,4.33,2.0,3.0
+R096,21,Student,Below 1M,Yes,Often,E-wallet without QRIS,Online,4,3,3,2,2,2,3,3,4,3,2,2,3.33,2.0,3.33,2.33
+R097,21,Student,Below 1M,Yes,Often,QRIS,Both equally,5,4,4,3,4,4,1,2,2,4,4,4,4.33,3.67,1.67,4.0
+R098,21,Student,Below 1M,Yes,Sometimes,Cash,Offline,4,4,4,2,4,4,3,3,2,3,4,3,4.0,3.33,2.67,3.33
+R099,18,Student,3M-4.9M,Yes,Sometimes,QRIS,Offline,3,3,4,3,3,3,4,3,3,3,3,3,3.33,3.0,3.33,3.0
+R100,19,Student,1M-2.9M,No,Never,QRIS,Online,4,4,5,3,3,3,3,3,3,3,2,2,4.33,3.0,3.0,2.33
+R101,18,Student,Below 1M,Yes,Very often,Cash,Offline,3,3,3,2,3,3,3,3,3,3,3,3,3.0,2.67,3.0,3.0
+R102,21,Student,5M or more,Yes,Very often,QRIS,Both equally,4,4,3,3,3,3,3,3,2,4,3,3,3.67,3.0,2.67,3.33
+R103,20,Student,3M-4.9M,Yes,Very often,Debit/Credit Card,Both equally,4,4,4,4,3,4,3,3,3,3,3,2,4.0,3.67,3.0,2.67
+R104,21,Student,5M or more,Yes,Very often,QRIS,Online,3,3,3,5,5,5,2,3,3,4,5,5,3.0,5.0,2.67,4.67
+R105,23,Student,5M or more,Yes,Sometimes,QRIS,Offline,3,4,3,3,4,4,4,4,4,2,3,2,3.33,3.67,4.0,2.33
+R106,20,Student,Below 1M,Yes,Sometimes,Cash,Online,3,3,3,3,4,4,5,5,4,4,3,3,3.0,3.67,4.67,3.33
+R107,20,Student,1M-2.9M,Yes,Sometimes,QRIS,Both equally,4,4,4,4,4,4,3,4,3,3,3,2,4.0,4.0,3.33,2.67
+R108,22,Student,3M-4.9M,Yes,Sometimes,QRIS,Offline,4,5,4,4,3,4,4,4,3,4,4,5,4.33,3.67,3.67,4.33
+R109,20,Student,1M-2.9M,Yes,Very often,Debit/Credit Card,Online,5,3,3,4,4,4,3,2,3,1,2,1,3.67,4.0,2.67,1.33
+R110,18,Student,Below 1M,Yes,Very often,QRIS,Online,5,4,4,3,3,3,4,3,3,3,2,3,4.33,3.0,3.33,2.67
+R111,20,Student,3M-4.9M,No,Never,E-wallet without QRIS,Online,2,2,2,5,4,5,4,3,2,2,2,2,2.0,4.67,3.0,2.0
+R112,19,Employee,Below 1M,Yes,Often,QRIS,Offline,3,3,3,5,5,4,2,1,2,3,4,3,3.0,4.67,1.67,3.33
+R113,24,Student,Below 1M,Yes,Sometimes,QRIS,Both equally,3,4,4,3,2,3,4,3,3,3,3,3,3.67,2.67,3.33,3.0
+R114,22,Student,1M-2.9M,Yes,Very often,Debit/Credit Card,Offline,3,3,3,4,3,4,4,4,4,3,3,3,3.0,3.67,4.0,3.0
+R115,21,Employee,1M-2.9M,Yes,Very often,QRIS,Offline,2,4,2,4,4,4,4,3,4,1,2,2,2.67,4.0,3.67,1.67
+R116,23,Self-employed,1M-2.9M,Yes,Sometimes,QRIS,Both equally,3,2,3,3,3,3,4,3,3,5,3,4,2.67,3.0,3.33,4.0
+R117,22,Student,Below 1M,No,Never,QRIS,Both equally,4,4,4,5,4,4,2,2,2,3,3,3,4.0,4.33,2.0,3.0
+R118,19,Student,3M-4.9M,Yes,Very often,QRIS,Offline,4,3,4,3,3,3,3,3,3,2,3,2,3.67,3.0,3.0,2.33
+R119,23,Employee,Below 1M,Yes,Sometimes,E-wallet without QRIS,Offline,3,2,1,5,5,5,3,4,2,3,3,4,2.0,5.0,3.0,3.33
+R120,21,Student,Below 1M,Yes,Rarely,QRIS,Offline,3,2,3,4,5,5,3,4,3,3,3,3,2.67,4.67,3.33,3.0
+R121,22,Student,3M-4.9M,Yes,Often,E-wallet without QRIS,Offline,3,3,4,4,4,4,2,2,2,2,2,2,3.33,4.0,2.0,2.0
+R122,23,Student,5M or more,Yes,Often,E-wallet without QRIS,Offline,4,5,3,4,4,4,3,3,2,3,4,4,4.0,4.0,2.67,3.67
+R123,20,Student,3M-4.9M,Yes,Rarely,QRIS,Offline,2,2,1,5,5,4,3,3,4,2,3,2,1.67,4.67,3.33,2.33
+R124,19,Student,3M-4.9M,No,Never,Bank Transfer,Online,3,3,4,4,3,4,4,3,4,3,2,3,3.33,3.67,3.67,2.67
+R125,20,Student,1M-2.9M,Yes,Sometimes,QRIS,Both equally,3,4,3,3,3,3,2,2,2,2,2,2,3.33,3.0,2.0,2.0
+R126,21,Student,1M-2.9M,Yes,Very often,Bank Transfer,Online,5,4,4,3,5,4,2,3,3,3,2,2,4.33,4.0,2.67,2.33
+R127,23,Student,Below 1M,Yes,Often,QRIS,Online,4,3,2,5,4,5,4,3,3,4,3,4,3.0,4.67,3.33,3.67
+R128,23,Student,1M-2.9M,Yes,Often,Debit/Credit Card,Offline,4,3,4,4,4,4,4,3,4,4,3,4,3.67,4.0,3.67,3.67
+R129,18,Student,1M-2.9M,Yes,Sometimes,Cash,Both equally,3,3,4,2,3,3,4,4,4,3,4,2,3.33,2.67,4.0,3.0
+R130,21,Student,Below 1M,Yes,Rarely,QRIS,Both equally,2,2,3,3,5,3,4,4,4,4,3,4,2.33,3.67,4.0,3.67
+R131,20,Student,3M-4.9M,Yes,Sometimes,Cash,Both equally,4,4,4,3,3,3,2,3,2,3,3,4,4.0,3.0,2.33,3.33
+R132,20,Employee,1M-2.9M,Yes,Sometimes,Debit/Credit Card,Both equally,4,4,3,3,4,4,1,2,1,3,2,2,3.67,3.67,1.33,2.33
+R133,19,Student,Below 1M,Yes,Sometimes,QRIS,Both equally,4,3,4,5,5,5,2,3,2,4,4,5,3.67,5.0,2.33,4.33
+R134,20,Student,Below 1M,Yes,Sometimes,QRIS,Online,5,5,5,3,3,2,4,5,5,3,3,3,5.0,2.67,4.67,3.0
+R135,24,Student,1M-2.9M,No,Never,Debit/Credit Card,Offline,1,2,2,4,4,5,5,5,5,3,2,2,1.67,4.33,5.0,2.33
+R136,20,Student,Below 1M,Yes,Often,Debit/Credit Card,Online,4,5,5,4,4,5,4,4,4,3,3,4,4.67,4.33,4.0,3.33
+R137,21,Student,3M-4.9M,Yes,Sometimes,Bank Transfer,Both equally,4,3,4,5,5,5,3,4,3,4,5,4,3.67,5.0,3.33,4.33
+R138,22,Student,1M-2.9M,Yes,Very often,E-wallet without QRIS,Both equally,4,4,4,3,3,4,3,4,4,4,4,3,4.0,3.33,3.67,3.67
+R139,20,Student,1M-2.9M,No,Never,Bank Transfer,Online,3,3,4,4,5,4,2,3,3,4,4,3,3.33,4.33,2.67,3.67
+R140,25,Student,1M-2.9M,No,Never,Debit/Credit Card,Offline,3,3,2,4,4,4,3,4,3,4,4,4,2.67,4.0,3.33,4.0
+R141,24,Student,3M-4.9M,Yes,Sometimes,QRIS,Offline,3,4,3,4,4,4,5,5,4,2,2,3,3.33,4.0,4.67,2.33
+R142,20,Student,Below 1M,Yes,Often,QRIS,Both equally,4,4,4,4,4,4,2,2,3,3,3,3,4.0,4.0,2.33,3.0
+R143,21,Student,1M-2.9M,Yes,Rarely,E-wallet without QRIS,Online,3,2,2,4,4,4,5,5,4,3,3,3,2.33,4.0,4.67,3.0
+R144,20,Student,1M-2.9M,Yes,Often,Cash,Online,5,4,4,3,2,3,3,2,3,4,3,4,4.33,2.67,2.67,3.67
+R145,20,Student,Below 1M,Yes,Rarely,QRIS,Offline,3,3,3,4,4,4,4,5,5,3,4,3,3.0,4.0,4.67,3.33
+R146,18,Employee,3M-4.9M,Yes,Very often,QRIS,Offline,2,3,2,4,4,4,2,1,1,2,4,2,2.33,4.0,1.33,2.67
+R147,21,Student,3M-4.9M,Yes,Very often,Bank Transfer,Both equally,4,3,4,3,3,3,4,3,4,3,4,4,3.67,3.0,3.67,3.67
+R148,21,Student,1M-2.9M,Yes,Often,Cash,Online,4,5,4,5,5,5,3,3,3,5,5,4,4.33,5.0,3.0,4.67
+R149,18,Employee,3M-4.9M,Yes,Rarely,QRIS,Both equally,3,3,4,4,2,4,2,2,2,2,2,2,3.33,3.33,2.0,2.0
+R150,20,Student,3M-4.9M,Yes,Often,Cash,Online,5,4,4,3,4,4,4,4,3,3,4,3,4.33,3.67,3.67,3.33
+R151,23,Student,3M-4.9M,Yes,Often,QRIS,Online,4,3,4,4,5,5,4,4,4,3,3,2,3.67,4.67,4.0,2.67
+R152,20,Student,3M-4.9M,Yes,Sometimes,QRIS,Offline,4,5,4,3,4,3,3,3,3,1,2,1,4.33,3.33,3.0,1.33
+R153,19,Student,1M-2.9M,Yes,Often,QRIS,Both equally,4,4,4,4,4,4,2,2,2,3,3,3,4.0,4.0,2.0,3.0
+R154,21,Student,1M-2.9M,Yes,Very often,QRIS,Online,5,5,5,3,3,3,3,3,3,4,4,4,5.0,3.0,3.0,4.0
+R155,25,Student,1M-2.9M,Yes,Often,E-wallet without QRIS,Online,4,3,4,4,4,5,3,3,4,4,4,4,3.67,4.33,3.33,4.0
+R156,20,Student,3M-4.9M,No,Never,QRIS,Online,4,3,3,5,5,4,4,4,3,2,2,2,3.33,4.67,3.67,2.0
+R157,22,Student,Below 1M,Yes,Very often,E-wallet without QRIS,Both equally,4,4,4,3,4,3,4,4,3,3,3,3,4.0,3.33,3.67,3.0
+R158,22,Student,3M-4.9M,Yes,Very often,E-wallet without QRIS,Offline,5,4,4,3,3,3,3,3,4,2,2,2,4.33,3.0,3.33,2.0
+R159,20,Student,3M-4.9M,Yes,Very often,QRIS,Both equally,4,3,4,3,3,3,5,5,5,4,3,4,3.67,3.0,5.0,3.67
+R160,22,Student,Below 1M,Yes,Sometimes,Debit/Credit Card,Offline,4,4,4,3,3,4,4,4,4,3,3,3,4.0,3.33,4.0,3.0
+R161,20,Student,3M-4.9M,Yes,Often,Cash,Online,4,4,4,5,4,4,2,3,2,4,3,4,4.0,4.33,2.33,3.67
+R162,21,Other,Below 1M,Yes,Very often,E-wallet without QRIS,Offline,4,4,4,4,4,5,3,2,2,4,4,4,4.0,4.33,2.33,4.0
+R163,21,Student,Below 1M,No,Never,QRIS,Offline,4,4,3,2,2,2,3,3,3,2,2,2,3.67,2.0,3.0,2.0
+R164,21,Student,3M-4.9M,Yes,Often,Debit/Credit Card,Online,4,4,3,5,4,5,3,3,3,3,2,3,3.67,4.67,3.0,2.67
+R165,19,Student,Below 1M,No,Never,Cash,Offline,3,4,4,4,4,4,4,4,3,3,3,3,3.67,4.0,3.67,3.0
+R166,23,Student,3M-4.9M,No,Never,QRIS,Online,4,4,4,5,4,4,4,3,4,3,3,3,4.0,4.33,3.67,3.0
+R167,20,Student,3M-4.9M,Yes,Very often,QRIS,Both equally,4,4,5,5,4,4,3,1,2,3,4,4,4.33,4.33,2.0,3.67
+R168,19,Student,1M-2.9M,No,Never,Debit/Credit Card,Offline,4,4,5,4,4,4,3,3,4,4,4,3,4.33,4.0,3.33,3.67
+R169,18,Student,Below 1M,Yes,Rarely,Debit/Credit Card,Both equally,5,4,4,4,4,4,4,3,4,3,2,2,4.33,4.0,3.67,2.33
+R170,21,Student,Below 1M,Yes,Sometimes,QRIS,Online,2,3,3,4,5,4,5,4,5,2,2,3,2.67,4.33,4.67,2.33
+R171,22,Student,1M-2.9M,Yes,Sometimes,Cash,Online,4,3,3,3,4,4,4,4,4,3,4,3,3.33,3.67,4.0,3.33
+R172,18,Employee,5M or more,No,Never,QRIS,Offline,5,4,3,3,4,3,5,4,3,3,3,3,4.0,3.33,4.0,3.0
+R173,21,Student,1M-2.9M,No,Never,Debit/Credit Card,Offline,4,5,5,5,5,5,3,3,4,4,4,4,4.67,5.0,3.33,4.0
+R174,20,Student,Below 1M,Yes,Sometimes,QRIS,Offline,5,4,5,4,5,5,4,4,4,4,4,4,4.67,4.67,4.0,4.0
+R175,22,Student,1M-2.9M,Yes,Sometimes,E-wallet without QRIS,Offline,3,3,4,4,5,4,3,4,4,4,4,3,3.33,4.33,3.67,3.67
+R176,19,Other,1M-2.9M,Yes,Often,QRIS,Offline,4,4,3,3,3,3,3,2,3,2,3,2,3.67,3.0,2.67,2.33
+R177,22,Student,3M-4.9M,Yes,Rarely,QRIS,Online,3,3,3,3,3,2,4,3,3,3,2,3,3.0,2.67,3.33,2.67
+R178,20,Student,Below 1M,Yes,Often,QRIS,Both equally,3,3,4,4,3,4,3,3,3,3,2,3,3.33,3.67,3.0,2.67
+R179,24,Other,3M-4.9M,Yes,Often,QRIS,Both equally,5,4,4,3,4,5,3,3,4,2,2,2,4.33,4.0,3.33,2.0
+R180,19,Employee,1M-2.9M,Yes,Sometimes,Cash,Online,3,3,4,3,4,5,4,5,5,3,4,3,3.33,4.0,4.67,3.33
+R181,20,Employee,5M or more,Yes,Sometimes,QRIS,Offline,4,4,4,3,4,4,2,3,3,3,5,4,4.0,3.67,2.67,4.0
+R182,19,Student,Below 1M,No,Never,E-wallet without QRIS,Offline,3,3,3,5,5,5,2,1,2,4,4,3,3.0,5.0,1.67,3.67
+R183,24,Student,1M-2.9M,Yes,Often,QRIS,Offline,5,4,4,5,3,3,3,3,2,3,2,2,4.33,3.67,2.67,2.33
+R184,23,Student,5M or more,Yes,Often,QRIS,Offline,3,3,3,3,3,4,4,4,4,1,1,2,3.0,3.33,4.0,1.33
+R185,20,Self-employed,Below 1M,Yes,Very often,QRIS,Online,3,3,3,3,3,4,4,4,4,2,2,3,3.0,3.33,4.0,2.33
+R186,22,Student,5M or more,No,Never,QRIS,Online,1,2,2,3,4,3,4,5,4,2,2,2,1.67,3.33,4.33,2.0
+R187,23,Student,1M-2.9M,No,Never,QRIS,Offline,3,4,3,3,3,4,4,3,3,3,3,3,3.33,3.33,3.33,3.0
+R188,21,Student,Below 1M,Yes,Very often,QRIS,Offline,3,2,2,4,4,3,2,2,3,4,4,3,2.33,3.67,2.33,3.67
+R189,21,Employee,Below 1M,Yes,Very often,Cash,Both equally,5,4,5,3,3,3,3,3,4,3,3,3,4.67,3.0,3.33,3.0
+R190,20,Student,3M-4.9M,Yes,Often,QRIS,Both equally,5,4,4,3,3,3,3,3,2,3,3,2,4.33,3.0,2.67,2.67
+R191,19,Student,Below 1M,Yes,Very often,Cash,Offline,4,5,4,3,3,3,5,5,5,4,4,5,4.33,3.0,5.0,4.33
+R192,23,Student,1M-2.9M,Yes,Very often,Cash,Both equally,5,4,5,3,3,4,3,3,3,4,3,4,4.67,3.33,3.0,3.67
+R193,23,Student,Below 1M,Yes,Very often,QRIS,Both equally,3,3,3,1,1,1,4,2,3,3,3,2,3.0,1.0,3.0,2.67
+R194,21,Student,1M-2.9M,Yes,Rarely,Cash,Offline,4,5,5,5,4,5,4,3,3,4,4,4,4.67,4.67,3.33,4.0
+R195,20,Student,Below 1M,Yes,Very often,Bank Transfer,Offline,4,4,4,4,5,4,3,4,3,3,3,3,4.0,4.33,3.33,3.0
+R196,20,Student,3M-4.9M,Yes,Often,Cash,Online,4,3,4,4,4,4,4,3,3,2,2,3,3.67,4.0,3.33,2.33
+R197,22,Student,5M or more,Yes,Very often,Debit/Credit Card,Both equally,4,4,4,3,5,4,4,4,5,3,3,2,4.0,4.0,4.33,2.67
+R198,23,Student,5M or more,Yes,Sometimes,QRIS,Both equally,3,3,4,3,3,2,3,4,3,3,3,4,3.33,2.67,3.33,3.33
+R199,23,Student,3M-4.9M,No,Never,E-wallet without QRIS,Offline,3,3,3,5,5,5,2,2,3,4,4,3,3.0,5.0,2.33,3.67
+R200,22,Student,Below 1M,Yes,Sometimes,E-wallet without QRIS,Offline,3,4,4,5,5,5,5,4,5,5,5,4,3.67,5.0,4.67,4.67
+R201,22,Student,3M-4.9M,No,Never,Cash,Online,3,4,3,4,4,3,3,4,3,4,4,3,3.33,3.67,3.33,3.67
+R202,19,Student,Below 1M,Yes,Sometimes,Bank Transfer,Online,3,3,2,5,4,4,4,3,4,4,4,4,2.67,4.33,3.67,4.0
+R203,19,Student,Below 1M,Yes,Sometimes,QRIS,Offline,4,4,5,3,4,5,3,3,3,3,4,3,4.33,4.0,3.0,3.33
+R204,23,Student,Below 1M,Yes,Sometimes,QRIS,Both equally,3,4,4,3,3,2,3,3,3,1,2,2,3.67,2.67,3.0,1.67
+R205,21,Student,1M-2.9M,Yes,Very often,E-wallet without QRIS,Online,4,4,4,3,3,3,4,4,3,4,3,3,4.0,3.0,3.67,3.33
+R206,18,Other,3M-4.9M,Yes,Rarely,E-wallet without QRIS,Both equally,4,3,4,4,4,4,2,2,2,2,3,4,3.67,4.0,2.0,3.0
+R207,19,Student,1M-2.9M,Yes,Sometimes,QRIS,Both equally,2,2,3,4,3,3,5,4,5,3,3,3,2.33,3.33,4.67,3.0
+R208,22,Employee,1M-2.9M,Yes,Sometimes,QRIS,Both equally,5,4,4,3,4,4,5,4,5,3,3,4,4.33,3.67,4.67,3.33
+R209,18,Student,Below 1M,Yes,Often,QRIS,Online,3,3,3,4,3,4,4,3,3,3,2,3,3.0,3.67,3.33,2.67
+R210,19,Student,5M or more,Yes,Sometimes,QRIS,Online,4,4,4,4,4,4,3,3,3,4,4,4,4.0,4.0,3.0,4.0
+R211,21,Employee,1M-2.9M,Yes,Sometimes,E-wallet without QRIS,Offline,2,3,3,4,5,3,3,3,3,3,4,3,2.67,4.0,3.0,3.33
+R212,22,Student,1M-2.9M,Yes,Often,Cash,Online,4,5,4,2,4,4,3,3,4,3,4,3,4.33,3.33,3.33,3.33
+R213,22,Student,Below 1M,Yes,Often,QRIS,Offline,4,4,5,2,4,3,4,4,4,3,4,4,4.33,3.0,4.0,3.67
+R214,20,Student,3M-4.9M,Yes,Sometimes,QRIS,Online,3,5,3,3,3,4,4,3,3,3,3,3,3.67,3.33,3.33,3.0
+R215,22,Student,1M-2.9M,Yes,Sometimes,QRIS,Offline,5,5,5,5,5,3,3,4,4,4,4,3,5.0,4.33,3.67,3.67
+R216,20,Self-employed,Below 1M,No,Never,QRIS,Offline,3,3,3,2,3,2,5,4,4,4,3,4,3.0,2.33,4.33,3.67
+R217,20,Employee,Below 1M,Yes,Sometimes,Cash,Offline,4,4,4,4,5,5,4,5,4,3,2,4,4.0,4.67,4.33,3.0
+R218,22,Other,1M-2.9M,Yes,Very often,Bank Transfer,Offline,3,4,4,5,4,5,2,2,2,5,3,4,3.67,4.67,2.0,4.0
+R219,22,Student,1M-2.9M,No,Never,E-wallet without QRIS,Both equally,3,5,3,4,3,3,4,4,4,3,2,3,3.67,3.33,4.0,2.67
+R220,23,Student,Below 1M,Yes,Sometimes,QRIS,Both equally,5,5,5,1,3,2,4,5,5,3,3,3,5.0,2.0,4.67,3.0
+R221,22,Self-employed,5M or more,Yes,Often,E-wallet without QRIS,Online,4,4,5,3,3,3,5,5,5,2,3,2,4.33,3.0,5.0,2.33
+R222,21,Student,Below 1M,Yes,Sometimes,E-wallet without QRIS,Offline,4,4,4,4,3,4,3,2,3,4,4,4,4.0,3.67,2.67,4.0
+R223,19,Student,1M-2.9M,Yes,Often,E-wallet without QRIS,Offline,3,1,3,3,3,3,4,4,3,2,2,3,2.33,3.0,3.67,2.33
+R224,20,Student,5M or more,Yes,Rarely,Cash,Offline,4,3,3,5,3,3,1,2,2,2,1,2,3.33,3.67,1.67,1.67
+R225,20,Student,1M-2.9M,Yes,Rarely,QRIS,Offline,4,4,3,5,4,5,4,4,3,4,4,4,3.67,4.67,3.67,4.0
+R226,20,Employee,1M-2.9M,Yes,Often,QRIS,Both equally,4,4,4,4,5,4,3,2,3,3,2,3,4.0,4.33,2.67,2.67
+R227,25,Student,1M-2.9M,Yes,Sometimes,QRIS,Offline,3,3,3,3,3,3,5,5,5,3,3,3,3.0,3.0,5.0,3.0
+R228,20,Employee,Below 1M,No,Never,QRIS,Offline,5,5,5,3,3,3,3,2,2,3,3,3,5.0,3.0,2.33,3.0
+R229,23,Student,5M or more,Yes,Sometimes,QRIS,Offline,4,5,5,4,4,3,3,3,3,4,4,3,4.67,3.67,3.0,3.67
+R230,21,Student,1M-2.9M,Yes,Often,Cash,Offline,4,5,4,3,4,3,3,2,3,3,3,3,4.33,3.33,2.67,3.0
+R231,22,Student,3M-4.9M,Yes,Very often,Debit/Credit Card,Online,4,4,3,5,5,4,3,2,2,2,3,2,3.67,4.67,2.33,2.33
+R232,21,Employee,Below 1M,Yes,Sometimes,Cash,Online,4,4,4,4,4,3,4,4,3,3,2,2,4.0,3.67,3.67,2.33
+R233,21,Student,Below 1M,Yes,Often,QRIS,Offline,3,3,3,4,4,4,1,1,2,3,4,3,3.0,4.0,1.33,3.33
+R234,21,Student,Below 1M,Yes,Very often,Bank Transfer,Offline,4,3,4,5,5,5,4,4,3,4,5,5,3.67,5.0,3.67,4.67
+R235,19,Student,1M-2.9M,Yes,Very often,Bank Transfer,Offline,4,4,4,5,5,4,2,2,2,3,2,2,4.0,4.67,2.0,2.33
+R236,22,Employee,1M-2.9M,No,Never,E-wallet without QRIS,Offline,4,3,2,4,4,5,3,4,4,4,3,4,3.0,4.33,3.67,3.67
+R237,20,Student,3M-4.9M,Yes,Often,Bank Transfer,Offline,4,3,4,4,4,2,5,4,4,2,2,3,3.67,3.33,4.33,2.33
+R238,18,Employee,1M-2.9M,Yes,Often,Cash,Both equally,3,4,3,3,4,3,5,4,4,3,3,2,3.33,3.33,4.33,2.67
+R239,22,Student,5M or more,Yes,Sometimes,Bank Transfer,Online,2,3,2,5,5,5,3,4,3,2,2,3,2.33,5.0,3.33,2.33
+R240,19,Student,Below 1M,Yes,Often,QRIS,Online,3,3,3,3,3,3,3,3,4,2,2,2,3.0,3.0,3.33,2.0
+R241,24,Student,3M-4.9M,Yes,Sometimes,QRIS,Online,3,3,3,4,4,4,3,4,4,2,2,2,3.0,4.0,3.67,2.0
+R242,24,Student,3M-4.9M,Yes,Sometimes,QRIS,Online,5,4,5,3,4,4,4,4,3,3,4,4,4.67,3.67,3.67,3.67
+R243,24,Student,3M-4.9M,Yes,Often,QRIS,Online,4,4,4,4,4,3,3,2,2,4,3,3,4.0,3.67,2.33,3.33
+R244,20,Student,3M-4.9M,Yes,Sometimes,QRIS,Online,2,3,3,3,3,2,4,4,3,3,2,3,2.67,2.67,3.67,2.67
+R245,18,Student,3M-4.9M,Yes,Often,Cash,Both equally,5,4,4,5,5,4,1,2,1,3,4,3,4.33,4.67,1.33,3.33
+R246,24,Employee,1M-2.9M,Yes,Often,E-wallet without QRIS,Offline,3,1,2,4,4,3,4,2,3,3,2,2,2.0,3.67,3.0,2.33
+R247,21,Student,Below 1M,Yes,Often,Cash,Online,4,4,5,4,5,4,3,3,3,4,3,4,4.33,4.33,3.0,3.67
+R248,24,Student,Below 1M,Yes,Sometimes,QRIS,Online,3,3,3,4,4,3,4,4,4,3,3,2,3.0,3.67,4.0,2.67
+R249,24,Self-employed,5M or more,Yes,Sometimes,E-wallet without QRIS,Both equally,4,4,4,5,5,5,3,3,3,2,3,2,4.0,5.0,3.0,2.33
+R250,23,Student,1M-2.9M,Yes,Often,Cash,Online,5,5,5,4,3,4,2,2,2,3,4,4,5.0,3.67,2.0,3.67
+R251,20,Student,3M-4.9M,Yes,Very often,QRIS,Online,3,3,3,5,5,5,2,3,1,3,2,3,3.0,5.0,2.0,2.67
+R252,20,Self-employed,1M-2.9M,Yes,Rarely,Debit/Credit Card,Offline,3,3,3,2,3,2,3,4,4,2,2,1,3.0,2.33,3.67,1.67
+R253,23,Student,Below 1M,Yes,Sometimes,QRIS,Online,3,4,4,4,4,4,3,3,3,3,3,3,3.67,4.0,3.0,3.0
+R254,20,Student,Below 1M,Yes,Very often,QRIS,Offline,4,4,4,4,4,4,4,3,2,2,3,3,4.0,4.0,3.0,2.67
+R255,19,Student,1M-2.9M,No,Never,Bank Transfer,Offline,2,3,4,4,3,4,3,2,2,3,2,2,3.0,3.67,2.33,2.33
+R256,21,Employee,1M-2.9M,Yes,Rarely,QRIS,Offline,3,2,2,4,4,4,3,5,3,3,3,3,2.33,4.0,3.67,3.0
+R257,24,Student,Below 1M,No,Never,Cash,Online,3,3,3,3,5,4,4,3,3,3,3,3,3.0,4.0,3.33,3.0
+R258,22,Student,1M-2.9M,Yes,Very often,E-wallet without QRIS,Offline,4,3,5,2,2,3,4,4,4,2,3,3,4.0,2.33,4.0,2.67
+R259,21,Employee,Below 1M,Yes,Often,Debit/Credit Card,Offline,5,4,5,4,5,5,4,5,5,4,4,3,4.67,4.67,4.67,3.67
+R260,19,Employee,1M-2.9M,Yes,Sometimes,QRIS,Both equally,3,3,4,2,1,1,2,2,3,4,3,3,3.33,1.33,2.33,3.33
+R261,21,Student,Below 1M,Yes,Sometimes,QRIS,Offline,3,4,5,3,3,3,1,2,1,3,3,2,4.0,3.0,1.33,2.67
+R262,25,Student,3M-4.9M,Yes,Sometimes,QRIS,Online,4,4,4,5,5,5,3,3,4,5,5,5,4.0,5.0,3.33,5.0
+R263,19,Student,Below 1M,Yes,Sometimes,Cash,Online,3,2,2,4,4,3,1,2,3,3,4,3,2.33,3.67,2.0,3.33
+R264,21,Student,1M-2.9M,Yes,Very often,QRIS,Offline,3,3,3,3,3,3,3,3,3,3,4,3,3.0,3.0,3.0,3.33
+R265,23,Student,Below 1M,Yes,Often,QRIS,Both equally,3,4,4,4,4,4,2,3,2,2,2,2,3.67,4.0,2.33,2.0
+R266,22,Student,Below 1M,Yes,Often,Bank Transfer,Offline,4,4,3,5,5,5,3,3,4,4,4,4,3.67,5.0,3.33,4.0
+R267,22,Employee,1M-2.9M,Yes,Very often,Cash,Online,4,3,2,3,2,2,4,5,5,3,2,3,3.0,2.33,4.67,2.67
+R268,22,Employee,1M-2.9M,Yes,Sometimes,QRIS,Online,4,4,3,3,3,2,4,4,4,3,3,3,3.67,2.67,4.0,3.0
+R269,20,Student,1M-2.9M,Yes,Often,Cash,Online,1,3,1,5,4,5,4,4,4,3,3,4,1.67,4.67,4.0,3.33
+R270,20,Employee,Below 1M,Yes,Often,Debit/Credit Card,Online,4,3,3,5,5,5,3,1,2,4,4,4,3.33,5.0,2.0,4.0
+R271,22,Student,1M-2.9M,Yes,Very often,QRIS,Offline,4,5,4,4,4,4,3,3,3,3,4,3,4.33,4.0,3.0,3.33
+R272,23,Employee,3M-4.9M,Yes,Sometimes,QRIS,Offline,3,3,3,3,2,3,1,2,1,1,1,2,3.0,2.67,1.33,1.33
+R273,23,Student,3M-4.9M,No,Never,E-wallet without QRIS,Both equally,4,4,3,5,5,5,2,3,3,4,3,3,3.67,5.0,2.67,3.33
+R274,24,Student,Below 1M,No,Never,Cash,Online,5,5,4,5,5,4,5,4,4,3,3,3,4.67,4.67,4.33,3.0
+R275,21,Employee,1M-2.9M,Yes,Often,Cash,Both equally,4,3,4,4,4,4,3,4,4,3,3,4,3.67,4.0,3.67,3.33
+R276,21,Student,Below 1M,Yes,Very often,QRIS,Both equally,4,4,3,4,3,2,2,4,4,3,3,2,3.67,3.0,3.33,2.67
+R277,22,Student,Below 1M,Yes,Sometimes,QRIS,Both equally,4,2,3,4,3,3,3,3,4,2,3,2,3.0,3.33,3.33,2.33
+R278,22,Student,5M or more,Yes,Rarely,QRIS,Online,4,4,4,3,3,4,4,3,3,3,4,4,4.0,3.33,3.33,3.67
+R279,22,Student,Below 1M,Yes,Often,QRIS,Offline,4,5,5,4,4,4,3,3,4,3,3,2,4.67,4.0,3.33,2.67
+R280,22,Student,1M-2.9M,Yes,Sometimes,QRIS,Both equally,3,5,4,4,5,5,4,3,4,5,5,5,4.0,4.67,3.67,5.0
+R281,23,Student,1M-2.9M,Yes,Often,QRIS,Online,3,4,4,4,5,5,1,2,2,2,2,2,3.67,4.67,1.67,2.0
+R282,20,Student,3M-4.9M,No,Never,E-wallet without QRIS,Offline,3,4,4,3,2,4,4,4,3,2,3,1,3.67,3.0,3.67,2.0
+R283,20,Student,1M-2.9M,Yes,Very often,Bank Transfer,Both equally,5,4,4,5,5,5,5,4,4,5,4,4,4.33,5.0,4.33,4.33
+R284,19,Student,Below 1M,Yes,Often,E-wallet without QRIS,Both equally,3,2,2,4,4,4,3,4,2,3,3,3,2.33,4.0,3.0,3.0
+R285,21,Student,Below 1M,Yes,Often,E-wallet without QRIS,Online,4,5,5,4,4,4,4,4,4,4,4,4,4.67,4.0,4.0,4.0
+R286,18,Self-employed,1M-2.9M,No,Never,QRIS,Offline,3,4,4,4,5,4,5,5,5,4,4,4,3.67,4.33,5.0,4.0
+R287,21,Student,Below 1M,Yes,Often,Bank Transfer,Offline,5,4,3,3,2,3,3,3,3,3,3,3,4.0,2.67,3.0,3.0
+R288,21,Student,1M-2.9M,Yes,Rarely,QRIS,Both equally,4,5,4,4,3,5,4,3,4,2,3,4,4.33,4.0,3.67,3.0
+R289,20,Student,Below 1M,Yes,Sometimes,Bank Transfer,Both equally,3,2,3,3,4,4,2,2,3,4,3,3,2.67,3.67,2.33,3.33
+R290,21,Self-employed,Below 1M,Yes,Very often,Bank Transfer,Offline,3,3,4,3,3,4,3,3,3,3,3,2,3.33,3.33,3.0,2.67
+R291,18,Student,1M-2.9M,Yes,Often,Debit/Credit Card,Offline,4,3,3,4,5,3,3,4,4,4,3,3,3.33,4.0,3.67,3.33
+R292,18,Student,Below 1M,Yes,Rarely,Bank Transfer,Both equally,3,3,4,5,5,5,3,3,3,3,2,2,3.33,5.0,3.0,2.33
+R293,23,Student,1M-2.9M,Yes,Sometimes,Cash,Offline,4,5,5,2,3,3,2,3,2,3,2,3,4.67,2.67,2.33,2.67
+R294,20,Student,1M-2.9M,Yes,Often,QRIS,Online,3,2,4,3,3,4,4,4,3,4,3,2,3.0,3.33,3.67,3.0
+R295,19,Student,3M-4.9M,Yes,Often,QRIS,Both equally,4,3,3,4,4,5,5,4,4,2,3,3,3.33,4.33,4.33,2.67
+R296,21,Employee,Below 1M,Yes,Very often,Cash,Offline,4,4,4,4,4,4,4,5,4,4,3,3,4.0,4.0,4.33,3.33
+R297,22,Self-employed,Below 1M,Yes,Sometimes,QRIS,Online,3,3,4,4,5,3,4,4,3,2,3,3,3.33,4.0,3.67,2.67
+R298,19,Student,Below 1M,Yes,Very often,Cash,Offline,3,4,4,4,3,3,3,4,4,3,2,4,3.67,3.33,3.67,3.0
+R299,21,Student,1M-2.9M,Yes,Often,Bank Transfer,Offline,4,3,4,4,5,3,4,4,4,3,3,2,3.67,4.0,4.0,2.67
+R300,19,Self-employed,3M-4.9M,Yes,Often,QRIS,Both equally,4,3,4,4,4,3,4,4,4,4,4,4,3.67,3.67,4.0,4.0
+R301,18,Student,Below 1M,No,Never,E-wallet without QRIS,Online,3,3,3,2,2,3,2,3,3,2,2,2,3.0,2.33,2.67,2.0
+R302,21,Student,5M or more,Yes,Often,Bank Transfer,Both equally,3,4,4,5,5,5,4,4,3,4,4,3,3.67,5.0,3.67,3.67
+R303,21,Student,Below 1M,Yes,Sometimes,Bank Transfer,Online,3,3,3,4,5,5,2,1,3,4,3,4,3.0,4.67,2.0,3.67
+R304,21,Student,1M-2.9M,Yes,Very often,Bank Transfer,Offline,4,4,4,4,3,3,3,3,3,3,3,2,4.0,3.33,3.0,2.67
+R305,22,Student,3M-4.9M,Yes,Sometimes,Cash,Offline,5,5,5,5,4,4,4,4,3,4,4,5,5.0,4.33,3.67,4.33
+R306,25,Student,3M-4.9M,Yes,Sometimes,Bank Transfer,Offline,4,4,4,4,4,4,4,4,4,3,3,3,4.0,4.0,4.0,3.0
+R307,21,Self-employed,3M-4.9M,Yes,Very often,E-wallet without QRIS,Offline,4,4,4,4,5,4,2,3,3,5,4,4,4.0,4.33,2.67,4.33
+R308,20,Self-employed,3M-4.9M,Yes,Often,QRIS,Offline,4,4,4,5,3,4,4,3,5,3,3,4,4.0,4.0,4.0,3.33
+R309,22,Student,Below 1M,Yes,Very often,Cash,Offline,2,3,3,4,4,3,4,3,4,2,2,2,2.67,3.67,3.67,2.0
+R310,20,Student,3M-4.9M,Yes,Often,Debit/Credit Card,Online,5,5,4,4,4,5,3,3,2,3,3,3,4.67,4.33,2.67,3.0
+R311,21,Other,Below 1M,Yes,Sometimes,QRIS,Both equally,4,4,4,5,3,4,2,2,1,3,4,3,4.0,4.0,1.67,3.33
+R312,18,Employee,3M-4.9M,Yes,Very often,Cash,Online,4,5,5,4,4,5,3,4,4,2,3,3,4.67,4.33,3.67,2.67
+R313,18,Student,1M-2.9M,Yes,Rarely,Debit/Credit Card,Both equally,3,3,4,3,3,3,2,3,4,2,3,2,3.33,3.0,3.0,2.33
+R314,24,Self-employed,3M-4.9M,Yes,Very often,QRIS,Offline,5,4,5,5,5,3,3,4,4,3,3,4,4.67,4.33,3.67,3.33
+R315,23,Employee,1M-2.9M,Yes,Sometimes,Cash,Offline,4,4,4,3,4,2,3,3,3,2,2,2,4.0,3.0,3.0,2.0
+R316,22,Student,1M-2.9M,No,Never,E-wallet without QRIS,Online,5,4,4,3,4,3,2,1,1,4,4,4,4.33,3.33,1.33,4.0
+R317,20,Student,1M-2.9M,Yes,Very often,Cash,Online,4,3,3,3,3,3,3,2,2,2,3,3,3.33,3.0,2.33,2.67
+R318,19,Student,3M-4.9M,Yes,Sometimes,QRIS,Offline,4,4,4,2,3,2,4,3,2,3,3,3,4.0,2.33,3.0,3.0
+R319,19,Student,Below 1M,Yes,Often,QRIS,Both equally,4,5,5,5,5,5,3,4,4,5,5,4,4.67,5.0,3.67,4.67
+R320,20,Student,Below 1M,Yes,Very often,QRIS,Both equally,4,4,4,5,5,5,3,2,4,2,2,4,4.0,5.0,3.0,2.67
+R321,21,Employee,Below 1M,Yes,Often,Bank Transfer,Online,2,3,3,5,5,5,4,4,5,3,3,3,2.67,5.0,4.33,3.0
+R322,22,Student,Below 1M,Yes,Often,QRIS,Offline,2,3,3,2,3,4,2,2,2,3,4,2,2.67,3.0,2.0,3.0
+R323,22,Student,3M-4.9M,Yes,Very often,Cash,Both equally,4,4,4,5,4,4,4,4,5,4,3,3,4.0,4.33,4.33,3.33
+R324,20,Student,Below 1M,Yes,Often,QRIS,Online,5,4,4,3,2,3,3,3,3,3,4,3,4.33,2.67,3.0,3.33
+R325,24,Student,5M or more,Yes,Very often,QRIS,Both equally,4,3,4,4,3,3,3,5,5,4,3,4,3.67,3.33,4.33,3.67
+R326,22,Self-employed,Below 1M,Yes,Often,E-wallet without QRIS,Both equally,5,3,4,3,2,4,3,2,4,4,3,4,4.0,3.0,3.0,3.67
+R327,21,Student,Below 1M,Yes,Sometimes,Debit/Credit Card,Both equally,2,3,2,4,5,5,4,4,4,2,3,3,2.33,4.67,4.0,2.67
+R328,21,Student,3M-4.9M,No,Never,QRIS,Online,3,4,4,4,4,4,3,3,3,3,3,2,3.67,4.0,3.0,2.67
+R329,20,Student,1M-2.9M,Yes,Rarely,QRIS,Offline,2,2,3,4,4,4,2,3,3,3,2,2,2.33,4.0,2.67,2.33
+R330,20,Student,1M-2.9M,Yes,Sometimes,QRIS,Online,4,4,4,4,5,4,5,4,4,4,3,4,4.0,4.33,4.33,3.67
+R331,20,Student,1M-2.9M,No,Never,Cash,Online,3,3,4,5,5,5,3,4,3,5,3,4,3.33,5.0,3.33,4.0
+R332,22,Student,3M-4.9M,Yes,Sometimes,Debit/Credit Card,Both equally,5,4,4,2,3,3,3,4,4,2,1,2,4.33,2.67,3.67,1.67
+R333,18,Student,Below 1M,Yes,Often,QRIS,Offline,3,4,3,4,5,5,4,4,5,3,3,4,3.33,4.67,4.33,3.33
+R334,19,Student,5M or more,Yes,Sometimes,QRIS,Offline,4,4,5,5,4,4,4,2,3,3,4,4,4.33,4.33,3.0,3.67
+R335,18,Student,5M or more,Yes,Rarely,QRIS,Both equally,5,5,4,3,4,2,4,4,3,3,3,3,4.67,3.0,3.67,3.0
+R336,18,Student,1M-2.9M,Yes,Rarely,Bank Transfer,Both equally,4,4,4,4,4,4,3,3,2,4,4,5,4.0,4.0,2.67,4.33
+R337,23,Self-employed,Below 1M,Yes,Very often,Bank Transfer,Both equally,3,4,4,3,4,4,3,3,3,4,3,4,3.67,3.67,3.0,3.67
+R338,22,Student,1M-2.9M,Yes,Often,QRIS,Both equally,4,4,4,4,3,4,3,4,3,4,4,4,4.0,3.67,3.33,4.0
+R339,21,Student,Below 1M,No,Never,E-wallet without QRIS,Online,4,3,3,3,3,3,1,2,2,1,3,3,3.33,3.0,1.67,2.33
+R340,19,Student,Below 1M,Yes,Sometimes,QRIS,Online,5,4,4,3,3,3,2,2,3,4,4,3,4.33,3.0,2.33,3.67
+R341,21,Student,Below 1M,Yes,Very often,QRIS,Both equally,5,5,4,5,5,5,4,5,5,5,4,5,4.67,5.0,4.67,4.67
+R342,21,Student,1M-2.9M,Yes,Rarely,E-wallet without QRIS,Online,4,5,5,4,4,3,3,4,5,4,4,4,4.67,3.67,4.0,4.0
+R343,19,Student,3M-4.9M,Yes,Very often,Bank Transfer,Online,3,3,3,4,5,4,3,4,3,3,2,2,3.0,4.33,3.33,2.33
+R344,21,Other,3M-4.9M,Yes,Often,Bank Transfer,Offline,4,4,4,2,3,3,3,4,3,4,3,2,4.0,2.67,3.33,3.0
+R345,20,Student,3M-4.9M,No,Never,Cash,Online,2,2,4,3,2,3,3,2,3,1,3,3,2.67,2.67,2.67,2.33
+R346,21,Student,1M-2.9M,Yes,Sometimes,QRIS,Both equally,4,4,4,5,4,4,5,5,5,4,4,4,4.0,4.33,5.0,4.0
+R347,21,Student,Below 1M,Yes,Often,E-wallet without QRIS,Offline,4,4,4,3,2,3,4,2,4,3,3,4,4.0,2.67,3.33,3.33
+R348,18,Other,1M-2.9M,Yes,Often,QRIS,Offline,2,2,2,4,4,3,4,3,4,2,3,2,2.0,3.67,3.67,2.33
+R349,20,Student,5M or more,No,Never,Cash,Offline,3,3,3,4,3,4,4,4,5,3,3,3,3.0,3.67,4.33,3.0
+R350,21,Student,Below 1M,Yes,Often,QRIS,Offline,5,4,3,4,4,2,2,3,3,2,3,2,4.0,3.33,2.67,2.33
+R351,21,Student,3M-4.9M,Yes,Very often,Debit/Credit Card,Offline,3,4,4,3,4,3,4,5,5,4,4,5,3.67,3.33,4.67,4.33
+R352,23,Student,1M-2.9M,Yes,Sometimes,QRIS,Online,2,3,2,5,4,4,1,2,2,2,2,2,2.33,4.33,1.67,2.0
+R353,22,Student,1M-2.9M,No,Never,QRIS,Both equally,4,4,4,5,5,5,4,5,5,3,3,4,4.0,5.0,4.67,3.33
+R354,19,Employee,3M-4.9M,Yes,Sometimes,Bank Transfer,Online,4,3,3,4,4,4,3,3,3,3,3,3,3.33,4.0,3.0,3.0
+R355,18,Student,1M-2.9M,No,Never,QRIS,Offline,4,3,4,4,4,3,3,2,4,4,4,4,3.67,3.67,3.0,4.0
+R356,22,Student,3M-4.9M,Yes,Rarely,Cash,Offline,3,3,3,5,3,4,2,2,2,1,1,1,3.0,4.0,2.0,1.0
+R357,18,Student,5M or more,Yes,Sometimes,QRIS,Online,4,5,5,4,4,4,3,3,3,4,3,4,4.67,4.0,3.0,3.67
+R358,21,Student,1M-2.9M,Yes,Sometimes,QRIS,Offline,5,5,5,4,5,5,2,3,3,3,3,3,5.0,4.67,2.67,3.0
+R359,24,Student,Below 1M,Yes,Very often,QRIS,Both equally,3,3,3,2,3,2,3,2,2,2,3,2,3.0,2.33,2.33,2.33
+R360,21,Student,1M-2.9M,Yes,Rarely,QRIS,Online,3,2,3,4,4,4,3,4,2,4,4,4,2.67,4.0,3.0,4.0
+R361,20,Employee,5M or more,Yes,Often,E-wallet without QRIS,Both equally,4,4,4,3,2,2,4,4,4,2,3,2,4.0,2.33,4.0,2.33
+R362,22,Student,Below 1M,Yes,Often,QRIS,Offline,3,4,4,4,4,4,3,4,3,4,3,4,3.67,4.0,3.33,3.67
+R363,21,Student,1M-2.9M,Yes,Very often,Bank Transfer,Online,4,4,4,5,5,5,3,4,4,3,4,4,4.0,5.0,3.67,3.67
+R364,21,Student,1M-2.9M,Yes,Very often,Cash,Offline,4,4,4,2,2,4,3,3,2,3,4,4,4.0,2.67,2.67,3.67
+R365,24,Student,3M-4.9M,No,Never,QRIS,Both equally,2,3,3,3,3,4,3,2,3,2,2,2,2.67,3.33,2.67,2.0
+R366,20,Student,Below 1M,No,Never,Cash,Online,5,5,5,5,5,5,4,5,4,4,2,3,5.0,5.0,4.33,3.0
+R367,24,Student,3M-4.9M,Yes,Often,Cash,Offline,4,3,3,2,3,2,3,3,3,3,3,4,3.33,2.33,3.0,3.33
+R368,23,Student,5M or more,Yes,Very often,E-wallet without QRIS,Offline,3,4,3,4,4,4,5,4,5,4,3,4,3.33,4.0,4.67,3.67
+R369,19,Employee,Below 1M,Yes,Very often,QRIS,Offline,4,3,4,4,4,5,3,2,4,3,2,3,3.67,4.33,3.0,2.67
+R370,18,Self-employed,Below 1M,Yes,Very often,QRIS,Online,4,4,3,4,3,3,4,3,4,3,2,3,3.67,3.33,3.67,2.67
+R371,19,Student,5M or more,Yes,Often,E-wallet without QRIS,Offline,3,3,3,3,4,4,4,5,4,3,3,3,3.0,3.67,4.33,3.0
+R372,18,Student,Below 1M,Yes,Rarely,Bank Transfer,Online,5,5,5,4,4,5,5,5,4,4,4,4,5.0,4.33,4.67,4.0
+R373,19,Student,3M-4.9M,Yes,Sometimes,E-wallet without QRIS,Offline,3,3,3,4,4,5,2,3,2,3,2,3,3.0,4.33,2.33,2.67
+R374,22,Student,1M-2.9M,Yes,Often,QRIS,Online,4,4,3,4,4,4,3,2,3,1,1,1,3.67,4.0,2.67,1.0
+R375,18,Student,Below 1M,Yes,Sometimes,E-wallet without QRIS,Both equally,5,5,5,4,3,3,3,4,3,4,3,3,5.0,3.33,3.33,3.33
+R376,20,Student,3M-4.9M,Yes,Sometimes,Cash,Both equally,3,3,3,3,4,4,4,3,4,3,1,2,3.0,3.67,3.67,2.0
+R377,23,Student,1M-2.9M,Yes,Often,Cash,Both equally,4,4,4,4,3,4,3,4,4,2,2,2,4.0,3.67,3.67,2.0
+R378,18,Student,1M-2.9M,Yes,Very often,QRIS,Offline,3,4,4,4,5,3,3,3,4,1,1,1,3.67,4.0,3.33,1.0
+R379,23,Student,1M-2.9M,Yes,Rarely,Cash,Offline,4,5,4,3,2,3,3,5,4,3,4,4,4.33,2.67,4.0,3.67
+R380,20,Student,1M-2.9M,Yes,Often,QRIS,Online,2,2,2,4,4,4,4,4,5,3,3,3,2.0,4.0,4.33,3.0
+R381,19,Student,Below 1M,Yes,Often,QRIS,Offline,4,2,4,3,3,3,3,4,4,3,2,3,3.33,3.0,3.67,2.67
+R382,22,Student,1M-2.9M,No,Never,E-wallet without QRIS,Online,3,4,4,3,3,4,3,4,3,4,4,4,3.67,3.33,3.33,4.0
+R383,21,Student,5M or more,Yes,Very often,QRIS,Offline,4,4,4,3,3,4,3,2,2,3,3,3,4.0,3.33,2.33,3.0
+R384,23,Student,Below 1M,Yes,Very often,QRIS,Offline,4,3,4,4,3,3,1,1,1,4,4,4,3.67,3.33,1.0,4.0
+R385,22,Employee,1M-2.9M,Yes,Often,QRIS,Offline,3,3,3,4,4,3,4,3,3,2,2,3,3.0,3.67,3.33,2.33
+R386,22,Student,Below 1M,Yes,Often,Bank Transfer,Both equally,3,4,3,4,3,5,4,3,3,3,3,3,3.33,4.0,3.33,3.0
+R387,20,Student,3M-4.9M,Yes,Sometimes,Cash,Offline,4,4,3,5,5,4,3,3,3,2,1,2,3.67,4.67,3.0,1.67
+R388,19,Student,Below 1M,Yes,Often,QRIS,Online,3,3,3,4,3,3,3,3,4,3,2,2,3.0,3.33,3.33,2.33
+R389,22,Student,5M or more,Yes,Often,E-wallet without QRIS,Offline,5,4,5,4,4,5,3,3,4,4,3,3,4.67,4.33,3.33,3.33
+R390,22,Student,1M-2.9M,No,Never,E-wallet without QRIS,Online,3,3,3,4,5,4,4,4,4,4,3,4,3.0,4.33,4.0,3.67
+R391,25,Student,Below 1M,Yes,Very often,QRIS,Offline,2,2,1,4,4,4,3,4,4,3,2,2,1.67,4.0,3.67,2.33
+R392,20,Employee,Below 1M,Yes,Very often,Debit/Credit Card,Both equally,3,4,3,3,4,3,2,3,3,4,3,2,3.33,3.33,2.67,3.0
+R393,20,Employee,Below 1M,Yes,Sometimes,E-wallet without QRIS,Both equally,3,3,3,4,4,4,5,4,4,4,4,3,3.0,4.0,4.33,3.67
+R394,22,Student,1M-2.9M,Yes,Often,Debit/Credit Card,Offline,3,2,3,5,3,4,3,3,3,5,5,5,2.67,4.0,3.0,5.0
+R395,20,Student,Below 1M,Yes,Sometimes,QRIS,Both equally,3,3,3,3,4,4,4,4,4,3,2,3,3.0,3.67,4.0,2.67
+R396,24,Student,3M-4.9M,Yes,Rarely,E-wallet without QRIS,Both equally,5,4,3,3,2,1,2,4,3,1,2,2,4.0,2.0,3.0,1.67
+R397,23,Student,1M-2.9M,Yes,Sometimes,Cash,Both equally,5,5,5,4,4,4,3,3,3,4,4,4,5.0,4.0,3.0,4.0
+R398,21,Employee,Below 1M,Yes,Rarely,QRIS,Both equally,3,4,3,5,5,5,3,3,4,3,4,3,3.33,5.0,3.33,3.33
+R399,22,Student,1M-2.9M,Yes,Very often,QRIS,Offline,3,3,3,4,4,4,3,4,3,4,3,4,3.0,4.0,3.33,3.67
+R400,22,Student,3M-4.9M,Yes,Sometimes,QRIS,Online,3,4,4,3,3,3,4,3,4,3,3,3,3.67,3.0,3.67,3.0
+R401,19,Student,Below 1M,Yes,Sometimes,QRIS,Offline,3,3,3,4,4,4,3,3,3,3,3,3,3.0,4.0,3.0,3.0
+R402,23,Student,Below 1M,Yes,Very often,E-wallet without QRIS,Offline,3,3,3,3,3,4,2,3,2,3,2,2,3.0,3.33,2.33,2.33
+R403,21,Student,Below 1M,Yes,Sometimes,QRIS,Both equally,3,3,4,4,4,5,2,3,3,3,2,4,3.33,4.33,2.67,3.0
+R404,23,Student,3M-4.9M,Yes,Rarely,QRIS,Offline,3,2,2,3,3,3,5,4,4,3,3,2,2.33,3.0,4.33,2.67
+R405,20,Student,1M-2.9M,Yes,Sometimes,Cash,Both equally,3,4,4,4,5,4,4,3,2,3,3,3,3.67,4.33,3.0,3.0
+R406,23,Employee,1M-2.9M,Yes,Rarely,QRIS,Both equally,4,4,4,4,4,4,3,3,3,4,4,5,4.0,4.0,3.0,4.33
+R407,20,Employee,3M-4.9M,No,Never,Bank Transfer,Both equally,3,3,4,4,4,4,4,4,4,2,2,3,3.33,4.0,4.0,2.33
+R408,18,Student,3M-4.9M,Yes,Rarely,QRIS,Both equally,3,4,4,4,4,4,3,3,3,3,3,3,3.67,4.0,3.0,3.0
+R409,23,Student,1M-2.9M,Yes,Rarely,QRIS,Offline,3,4,3,5,4,5,2,3,2,3,4,4,3.33,4.67,2.33,3.67
+R410,19,Student,3M-4.9M,Yes,Often,QRIS,Offline,4,4,4,4,4,4,4,4,3,3,3,2,4.0,4.0,3.67,2.67
+R411,20,Student,Below 1M,Yes,Sometimes,QRIS,Online,3,2,3,3,3,3,3,3,3,2,3,2,2.67,3.0,3.0,2.33
+R412,24,Student,Below 1M,No,Never,QRIS,Offline,4,5,4,4,5,4,2,3,2,2,3,2,4.33,4.33,2.33,2.33
+R413,24,Student,Below 1M,No,Never,Debit/Credit Card,Offline,3,2,3,4,4,3,3,3,4,4,3,3,2.67,3.67,3.33,3.33
+R414,21,Student,Below 1M,Yes,Sometimes,Bank Transfer,Offline,4,3,3,4,4,4,4,4,4,3,2,2,3.33,4.0,4.0,2.33
+R415,21,Student,1M-2.9M,Yes,Very often,QRIS,Both equally,2,3,3,4,4,4,4,3,4,3,3,4,2.67,4.0,3.67,3.33
+R416,21,Student,5M or more,Yes,Often,Debit/Credit Card,Online,3,4,3,3,3,2,4,4,3,4,4,4,3.33,2.67,3.67,4.0
+R417,20,Student,Below 1M,No,Never,Debit/Credit Card,Offline,4,5,5,4,4,4,5,5,4,5,5,4,4.67,4.0,4.67,4.67
+R418,20,Self-employed,Below 1M,Yes,Very often,E-wallet without QRIS,Online,4,4,4,3,3,3,3,2,3,3,4,4,4.0,3.0,2.67,3.67
+R419,22,Employee,1M-2.9M,Yes,Often,QRIS,Offline,4,4,5,3,3,3,2,3,3,3,2,3,4.33,3.0,2.67,2.67
+R420,22,Student,5M or more,Yes,Sometimes,QRIS,Offline,4,4,4,4,3,3,3,3,3,2,3,3,4.0,3.33,3.0,2.67
+R421,22,Employee,Below 1M,Yes,Often,QRIS,Both equally,3,2,2,4,4,4,3,2,3,4,4,4,2.33,4.0,2.67,4.0
+R422,22,Student,1M-2.9M,Yes,Rarely,Debit/Credit Card,Online,4,3,4,5,4,5,3,3,3,2,3,3,3.67,4.67,3.0,2.67
+R423,19,Employee,Below 1M,Yes,Rarely,E-wallet without QRIS,Both equally,4,3,3,4,4,5,3,3,3,2,2,2,3.33,4.33,3.0,2.0
+R424,21,Employee,Below 1M,Yes,Often,QRIS,Offline,4,4,4,3,4,4,3,4,4,4,5,3,4.0,3.67,3.67,4.0
+R425,18,Student,5M or more,Yes,Often,QRIS,Both equally,3,3,3,5,5,5,5,5,4,2,3,2,3.0,5.0,4.67,2.33
+R426,21,Student,5M or more,Yes,Very often,Bank Transfer,Online,4,4,5,4,5,4,3,3,3,2,2,3,4.33,4.33,3.0,2.33
+R427,21,Student,Below 1M,Yes,Very often,E-wallet without QRIS,Online,4,4,4,4,5,5,3,4,3,3,3,3,4.0,4.67,3.33,3.0
+R428,23,Student,5M or more,Yes,Sometimes,Bank Transfer,Online,5,5,5,3,3,4,4,3,4,3,4,3,5.0,3.33,3.67,3.33
+R429,20,Student,1M-2.9M,Yes,Often,E-wallet without QRIS,Both equally,3,3,4,4,4,4,4,4,3,3,3,3,3.33,4.0,3.67,3.0
+R430,19,Student,3M-4.9M,Yes,Often,QRIS,Online,4,3,4,4,4,4,3,4,3,4,4,4,3.67,4.0,3.33,4.0
+R431,19,Student,1M-2.9M,Yes,Very often,Cash,Online,5,5,5,5,5,5,4,5,5,5,5,5,5.0,5.0,4.67,5.0
+R432,22,Employee,1M-2.9M,Yes,Very often,Debit/Credit Card,Both equally,3,3,4,5,5,4,1,1,2,3,3,3,3.33,4.67,1.33,3.0
+R433,21,Other,1M-2.9M,Yes,Very often,QRIS,Both equally,2,3,1,5,5,5,1,1,1,2,2,3,2.0,5.0,1.0,2.33
+R434,19,Student,1M-2.9M,Yes,Sometimes,Cash,Online,2,3,2,3,4,4,3,3,2,2,3,2,2.33,3.67,2.67,2.33
+R435,19,Student,Below 1M,Yes,Often,Debit/Credit Card,Both equally,5,4,4,4,4,4,4,5,5,4,4,4,4.33,4.0,4.67,4.0
+R436,22,Student,Below 1M,Yes,Sometimes,QRIS,Offline,2,2,2,5,4,3,3,1,3,4,4,4,2.0,4.0,2.33,4.0
+R437,18,Student,Below 1M,Yes,Sometimes,E-wallet without QRIS,Offline,3,3,3,4,5,5,2,1,1,4,4,3,3.0,4.67,1.33,3.67
+R438,23,Self-employed,3M-4.9M,Yes,Very often,Cash,Online,4,4,4,3,3,4,4,3,4,2,3,2,4.0,3.33,3.67,2.33
+R439,22,Student,Below 1M,Yes,Rarely,Bank Transfer,Both equally,4,4,4,5,5,5,2,4,4,3,3,3,4.0,5.0,3.33,3.0
+R440,19,Student,1M-2.9M,Yes,Very often,QRIS,Both equally,4,4,4,5,5,4,3,2,2,3,3,3,4.0,4.67,2.33,3.0
+R441,19,Student,5M or more,Yes,Sometimes,QRIS,Offline,4,4,5,2,4,3,2,2,2,4,3,3,4.33,3.0,2.0,3.33
+R442,25,Student,Below 1M,Yes,Very often,Cash,Online,5,4,5,3,3,4,2,3,2,3,4,4,4.67,3.33,2.33,3.67
+R443,20,Student,1M-2.9M,Yes,Sometimes,QRIS,Offline,4,3,3,4,3,3,3,4,3,3,3,4,3.33,3.33,3.33,3.33
+R444,20,Employee,1M-2.9M,Yes,Sometimes,Debit/Credit Card,Both equally,4,2,4,3,4,4,3,3,2,3,3,3,3.33,3.67,2.67,3.0
+R445,23,Student,3M-4.9M,Yes,Sometimes,E-wallet without QRIS,Both equally,4,4,3,3,4,4,4,4,4,4,4,4,3.67,3.67,4.0,4.0
+R446,24,Student,Below 1M,Yes,Often,QRIS,Online,4,4,4,5,5,5,1,1,1,3,2,3,4.0,5.0,1.0,2.67
+R447,25,Student,1M-2.9M,Yes,Sometimes,Cash,Both equally,4,4,4,5,4,4,2,3,3,3,4,4,4.0,4.33,2.67,3.67
+R448,22,Self-employed,3M-4.9M,Yes,Often,Cash,Both equally,4,5,4,4,4,3,3,2,3,3,3,3,4.33,3.67,2.67,3.0
+R449,20,Employee,5M or more,Yes,Rarely,QRIS,Online,5,5,5,3,4,3,3,3,2,2,2,3,5.0,3.33,2.67,2.33
+R450,19,Student,1M-2.9M,Yes,Rarely,Bank Transfer,Offline,2,2,3,4,3,2,3,3,2,3,3,4,2.33,3.0,2.67,3.33
+R451,22,Student,1M-2.9M,Yes,Rarely,E-wallet without QRIS,Online,5,5,5,5,3,4,4,3,5,3,4,3,5.0,4.0,4.0,3.33
+R452,21,Student,1M-2.9M,Yes,Sometimes,Debit/Credit Card,Online,5,5,4,2,2,2,1,2,2,3,3,2,4.67,2.0,1.67,2.67
+R453,21,Student,3M-4.9M,Yes,Very often,Debit/Credit Card,Online,4,4,4,4,5,5,3,4,3,4,3,3,4.0,4.67,3.33,3.33
+R454,23,Self-employed,1M-2.9M,Yes,Very often,Cash,Offline,5,5,4,4,4,4,4,4,4,4,3,3,4.67,4.0,4.0,3.33
+R455,19,Student,Below 1M,No,Never,Bank Transfer,Both equally,3,3,3,5,5,5,5,5,5,5,5,5,3.0,5.0,5.0,5.0
+R456,21,Student,5M or more,No,Never,Debit/Credit Card,Offline,3,3,3,5,5,5,2,3,3,4,3,5,3.0,5.0,2.67,4.0
+R457,18,Student,1M-2.9M,Yes,Sometimes,Debit/Credit Card,Online,3,3,3,4,3,4,3,4,3,4,4,4,3.0,3.67,3.33,4.0
+R458,21,Student,1M-2.9M,Yes,Often,E-wallet without QRIS,Online,4,3,5,4,3,3,1,1,2,3,3,3,4.0,3.33,1.33,3.0
+R459,18,Student,Below 1M,Yes,Often,QRIS,Online,4,3,4,5,5,4,1,1,2,3,4,3,3.67,4.67,1.33,3.33
+R460,19,Student,1M-2.9M,Yes,Sometimes,E-wallet without QRIS,Online,4,5,4,5,4,5,4,4,4,4,4,3,4.33,4.67,4.0,3.67
+R461,19,Student,1M-2.9M,Yes,Sometimes,QRIS,Offline,5,4,5,3,3,3,4,3,4,3,2,3,4.67,3.0,3.67,2.67
+R462,22,Student,1M-2.9M,Yes,Often,QRIS,Offline,4,4,5,1,4,3,4,4,3,3,3,3,4.33,2.67,3.67,3.0
+R463,22,Student,Below 1M,Yes,Sometimes,QRIS,Online,5,4,4,3,3,4,3,2,1,2,3,3,4.33,3.33,2.0,2.67
+R464,21,Student,1M-2.9M,Yes,Rarely,Bank Transfer,Online,3,2,3,5,4,4,3,4,4,1,1,1,2.67,4.33,3.67,1.0
+R465,24,Student,5M or more,Yes,Sometimes,E-wallet without QRIS,Offline,3,2,2,4,4,4,5,5,5,3,3,3,2.33,4.0,5.0,3.0
+R466,20,Student,Below 1M,Yes,Often,Debit/Credit Card,Both equally,5,4,5,4,5,4,5,4,3,3,3,3,4.67,4.33,4.0,3.0
+R467,20,Student,5M or more,Yes,Rarely,Debit/Credit Card,Online,5,4,5,2,3,3,3,4,3,4,4,3,4.67,2.67,3.33,3.67
+R468,23,Student,1M-2.9M,Yes,Sometimes,Cash,Online,4,4,3,3,2,2,4,3,3,3,2,2,3.67,2.33,3.33,2.33
+R469,20,Student,3M-4.9M,Yes,Sometimes,Bank Transfer,Both equally,4,3,4,5,4,5,2,2,2,2,3,2,3.67,4.67,2.0,2.33
+R470,24,Student,3M-4.9M,Yes,Rarely,Cash,Offline,3,2,2,3,4,3,3,4,5,3,2,3,2.33,3.33,4.0,2.67
+R471,18,Student,1M-2.9M,Yes,Sometimes,QRIS,Offline,2,3,3,2,2,2,2,3,3,2,1,1,2.67,2.0,2.67,1.33
+R472,24,Self-employed,3M-4.9M,Yes,Very often,QRIS,Both equally,5,5,4,4,4,4,3,3,4,3,3,4,4.67,4.0,3.33,3.33
+R473,18,Student,3M-4.9M,Yes,Rarely,E-wallet without QRIS,Online,3,3,3,5,4,4,3,1,3,4,2,3,3.0,4.33,2.33,3.0
+R474,23,Student,1M-2.9M,Yes,Often,Debit/Credit Card,Online,5,4,4,4,4,3,3,2,2,4,4,2,4.33,3.67,2.33,3.33
+R475,21,Student,Below 1M,Yes,Sometimes,QRIS,Both equally,4,5,4,4,3,5,5,5,5,3,3,4,4.33,4.0,5.0,3.33
+R476,25,Student,1M-2.9M,No,Never,QRIS,Both equally,3,3,3,4,4,4,3,3,2,3,3,2,3.0,4.0,2.67,2.67
+R477,18,Student,3M-4.9M,Yes,Often,E-wallet without QRIS,Both equally,4,4,3,5,3,4,5,5,4,3,2,2,3.67,4.0,4.67,2.33
+R478,21,Student,3M-4.9M,Yes,Often,QRIS,Online,5,4,5,2,2,3,3,2,3,4,4,3,4.67,2.33,2.67,3.67
+R479,24,Student,3M-4.9M,No,Never,Debit/Credit Card,Online,4,4,4,3,4,4,2,1,2,3,4,4,4.0,3.67,1.67,3.67
+R480,21,Student,1M-2.9M,Yes,Sometimes,Bank Transfer,Online,5,5,5,4,4,4,4,5,4,4,4,4,5.0,4.0,4.33,4.0
+R481,21,Student,3M-4.9M,Yes,Very often,QRIS,Offline,3,3,3,3,4,4,3,3,3,2,3,2,3.0,3.67,3.0,2.33
+R482,22,Employee,Below 1M,Yes,Often,QRIS,Online,5,4,5,3,4,4,5,4,3,4,4,4,4.67,3.67,4.0,4.0
+R483,21,Student,1M-2.9M,Yes,Very often,Debit/Credit Card,Offline,4,3,3,3,3,3,3,4,3,4,5,5,3.33,3.0,3.33,4.67
+R484,21,Student,Below 1M,Yes,Sometimes,E-wallet without QRIS,Both equally,4,4,4,3,3,3,1,2,2,3,3,3,4.0,3.0,1.67,3.0
+R485,21,Student,Below 1M,Yes,Very often,Cash,Online,4,4,4,2,2,3,3,3,4,3,2,3,4.0,2.33,3.33,2.67
+R486,23,Student,1M-2.9M,Yes,Often,Bank Transfer,Online,2,3,3,4,4,4,5,5,5,2,3,2,2.67,4.0,5.0,2.33
+R487,18,Student,1M-2.9M,Yes,Very often,QRIS,Offline,4,4,3,5,4,5,5,3,4,3,3,2,3.67,4.67,4.0,2.67
+R488,20,Student,1M-2.9M,Yes,Often,Cash,Offline,3,2,3,3,2,3,4,3,2,3,2,2,2.67,2.67,3.0,2.33
+R489,24,Student,1M-2.9M,Yes,Often,Debit/Credit Card,Offline,4,4,4,4,4,3,4,5,4,4,4,4,4.0,3.67,4.33,4.0
+R490,23,Employee,1M-2.9M,Yes,Often,E-wallet without QRIS,Online,4,3,4,4,4,4,3,4,4,3,4,4,3.67,4.0,3.67,3.67
+R491,21,Employee,Below 1M,Yes,Very often,QRIS,Offline,4,5,5,5,5,5,3,4,3,3,4,2,4.67,5.0,3.33,3.0
+R492,21,Student,1M-2.9M,Yes,Very often,E-wallet without QRIS,Online,4,4,5,4,4,3,2,2,2,3,3,2,4.33,3.67,2.0,2.67
+R493,20,Student,Below 1M,Yes,Sometimes,Cash,Both equally,4,4,4,2,4,3,4,3,4,3,3,2,4.0,3.0,3.67,2.67
+R494,19,Student,Below 1M,Yes,Very often,QRIS,Both equally,3,3,3,1,3,2,5,5,4,3,2,3,3.0,2.0,4.67,2.67
+R495,21,Student,1M-2.9M,Yes,Sometimes,QRIS,Online,3,3,4,4,4,3,3,2,2,2,2,2,3.33,3.67,2.33,2.0
+R496,20,Student,1M-2.9M,Yes,Often,E-wallet without QRIS,Offline,3,3,3,5,5,5,5,5,4,4,4,4,3.0,5.0,4.67,4.0
+R497,21,Self-employed,1M-2.9M,No,Never,QRIS,Both equally,4,4,4,5,4,3,3,3,5,3,3,3,4.0,4.0,3.67,3.0
+R498,18,Student,1M-2.9M,Yes,Sometimes,QRIS,Both equally,5,5,5,4,5,3,3,3,2,4,4,3,5.0,4.0,2.67,3.67
+R499,25,Self-employed,1M-2.9M,Yes,Sometimes,QRIS,Offline,4,4,4,4,5,5,4,5,3,2,2,3,4.0,4.67,4.0,2.33
+R500,25,Student,3M-4.9M,Yes,Very often,E-wallet without QRIS,Both equally,3,4,4,4,4,4,4,2,4,3,4,4,3.67,4.0,3.33,3.67
